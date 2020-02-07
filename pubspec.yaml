@@ -26,6 +26,8 @@ dependencies:
   http: any
   url_launcher: any
   flutter_swiper: any
+  intl: any
+  cached_network_image: ^2.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
